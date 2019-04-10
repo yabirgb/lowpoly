@@ -14,3 +14,11 @@ Put the image under the folder `resource` with name `test2.jpeg` (`resources/tes
 Then run
 
     cargo run
+    
+## Examples 
+
+Original             |  Lowpoly version
+:-------------------------:|:-------------------------:
+![](https://github.com/yabirgb/lowpoly/blob/master/examples/test1_original.jpeg)  |  ![](https://github.com/yabirgb/lowpoly/blob/master/examples/test1.png)
+![](https://github.com/yabirgb/lowpoly/blob/master/examples/test2_original.jpeg)  |  ![](https://github.com/yabirgb/lowpoly/blob/master/examples/test2.png)
+![](https://github.com/yabirgb/lowpoly/blob/master/examples/test3_original.jpeg)  |  ![](https://github.com/yabirgb/lowpoly/blob/master/examples/test3.png)
