@@ -9,11 +9,13 @@ It uses rust and the following algorithms:
 
 ## Usage
 
-Put the image under the folder `resource` with name `test2.jpeg` (`resources/test2.jpeg`)
+Run
 
-Then run
+    cargo run --release -- <input_image_path> <output_image_path>
 
-    cargo run
+Example:
+
+    cargo run --release -- examples/test2_original.jpeg output.png
     
 ## Examples 
 
